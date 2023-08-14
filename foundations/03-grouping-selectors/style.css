@@ -1,0 +1,15 @@
+.yes-bt ,  .no-bt
+{
+    font-size: 28px;
+    font-family: Helvetica , "Times New Roman" ,sans-serif;
+}
+
+.no-bt
+{
+    background-color: yellow;
+}
+.yes-bt
+{
+    background-color:black;
+    color: white;
+}
